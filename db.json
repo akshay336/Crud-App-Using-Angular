@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "a656",
+      "firstname": "Akshay",
+      "lastname": "Jadhav",
+      "email": "akshayjadhav3454@gmail.com",
+      "dob": "2024-07-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post-Graduation",
+      "company": "Paexskin Pvt Ltd",
+      "experience": 1,
+      "package": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstname": "Aksha",
+      "lastname": "Jadhav",
+      "email": "akshayjadhav3454@gmail.com",
+      "dob": "2024-08-04T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "company": "Paexskin Pvt Ltd",
+      "experience": 3,
+      "package": 7,
+      "id": "3e38"
+    }
+  ]
+}
